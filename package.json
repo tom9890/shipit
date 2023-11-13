@@ -7,21 +7,21 @@
     "test": "test"
   },
   "dependencies": {
-    "async": "~0.2.10",
-    "change-case": "~1.0.5",
-    "cheerio": "~0.13.1",
-    "grunt": "~0.4.2",
-    "grunt-contrib-coffee": "~0.10.0",
-    "moment": "~2.5.1",
-    "request": "~2.33.0",
-    "underscore": "~1.5.2",
-    "xml2js": "~0.4.1"
+    "async": "latest",
+    "change-case": "latest",
+    "cheerio": "latest",
+    "grunt": "latest",
+    "grunt-contrib-coffee": "latest",
+    "moment": "latest",
+    "request": "latest",
+    "underscore": "latest",
+    "xml2js": "latest"
   },
   "devDependencies": {
-    "bondjs": "~1.0.0",
-    "chai": "~1.9.0",
-    "grunt-mocha-test": "~0.6.3",
-    "mocha": "~1.17.1"
+    "bondjs": "latest",
+    "chai": "latest",
+    "grunt-mocha-test": "latest",
+    "mocha": "latest"
   },
   "scripts": {
     "test": "grunt"
